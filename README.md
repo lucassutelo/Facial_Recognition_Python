@@ -33,12 +33,12 @@ Este projeto implementa um sistema de reconhecimento facial em tempo real utiliz
 
 1. Clone este repositório:
    ```bash
-   sudo apt install cmake #para linux
    git clone https://github.com/lucassutelo/reconhecimento-facial.git
    ```
 
 2. Instale as dependências:
    ```bash
+   sudo apt install cmake #para linux
    pip install -r requirements.txt
    ```
 
